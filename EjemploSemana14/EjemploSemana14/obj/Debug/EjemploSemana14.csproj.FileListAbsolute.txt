@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\bin\Debug\EjemploSemana14.exe.config
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\bin\Debug\EjemploSemana14.exe
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\bin\Debug\EjemploSemana14.pdb
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.Form1.resources
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.Properties.Resources.resources
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.exe
+C:\Users\labc201\Desktop\EjemploSemana14\EjemploSemana14\obj\Debug\EjemploSemana14.pdb
